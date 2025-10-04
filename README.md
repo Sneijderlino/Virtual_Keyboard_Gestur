@@ -34,8 +34,13 @@ Virtual Keyboard Gesture adalah aplikasi Python yang memungkinkan pengguna menge
 - Output suara dengan `pyttsx3`.
 - Efek suara klik dengan `winsound`.
 
+
 ---
+
 <h1 align="center">Instalasi & Setup</h1>
+
+
+---
 
 ## 📥 Cara Clone
 
@@ -67,4 +72,5 @@ pip install opencv-python cvzone pyttsx3 playsound
 pip install opencv-python cvzone pyttsx3 winsound
 #✅ Efek suara klik menggunakan winsound hanya tersedia di Windows.
 ```# Virtual_Keyboard_Gestur
+# Virtual_Keyboard_Gestur
 # Virtual_Keyboard_Gestur
