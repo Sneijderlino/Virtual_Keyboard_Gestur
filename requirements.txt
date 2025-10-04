@@ -1,0 +1,4 @@
+opencv-python
+cvzone
+pyttsx3
+winsound; sys_platform == 'win32'

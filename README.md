@@ -68,3 +68,4 @@ pip install opencv-python cvzone pyttsx3 winsound
 ```
 
 # Virtual_Keyboard_Gestur
+# Virtual_Keyboard_Gestur
