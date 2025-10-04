@@ -65,7 +65,4 @@ pip install opencv-python cvzone pyttsx3 playsound
 ```bash
 pip install opencv-python cvzone pyttsx3 winsound
 #✅ Efek suara klik menggunakan winsound hanya tersedia di Windows.
-```
-
-# Virtual_Keyboard_Gestur
-# Virtual_Keyboard_Gestur
+```# Virtual_Keyboard_Gestur
